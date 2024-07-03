@@ -1,0 +1,18 @@
+{
+  "cartName": "multi-line-cart",
+  "realItems": [
+    {
+      "weight": 1000.0,
+      "name": "MultiLineRealItem",
+      "price": 200.0
+    }
+  ],
+  "virtualItems": [
+    {
+      "sizeOnDisk": 5000.0,
+      "name": "MultiLineVirtualItem",
+      "price": 75.0
+    }
+  ],
+  "total": 330.0
+}
